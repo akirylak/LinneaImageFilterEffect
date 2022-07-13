@@ -1,0 +1,5 @@
+The following Python Libraries are required installation libraries for "Linnea Image Filter Effects" project for CS50P final project.
+
+argparse
+PIL
+
