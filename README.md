@@ -3,7 +3,7 @@
 #### Desciption:  This program is an image procesor, saving photos with assigned filters.  The filters were built utilizing the Pillow Libaray available for Python 3.0.
 
 ***
-This Python Program was created as a Final Project for the HarvardX CS50P: Introduction to Python 2022 course via edx.org.  This code has been created by Amber Linnea Kirylak, EdX user: Kirylak_A, Github user: akirylak.
+This Python Program was created as a Final Project for the HarvardX CS50P: Introduction to Programming in Python 2022 course via edx.org.  This code has been created by Amber Linnea Kirylak, EdX user: Kirylak_A, Github user: akirylak.
 Submission Period:  July 2022.
 ***
 
